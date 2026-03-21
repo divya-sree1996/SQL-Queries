@@ -1,2 +1,2 @@
 # SQL-Queries
-My HackerRank problem solutions (Python, SQL)
+![My HackerRank Stats](https://hacker-stat.vercel.app/api?username=divyabilla96)
